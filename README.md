@@ -37,7 +37,7 @@
 
 🌦️ **[Weather App](https://jeyasurya23.github.io/weather-app/)**  
 > A dynamic weather application that provides real-time weather updates for any location.  
-**Tech Stack**: ![HTML](https://img.icons8.com/color/20/000000/html-5.png) ![CSS](https://img.icons8.com/color/20/000000/css3.png) ![JavaScript](https://img.icons8.com/color/20/000000/javascript.png) ![OpenWeather API]((https://img.icons8.com/color/20/000000/openweather.png))
+**Tech Stack**: ![HTML](https://img.icons8.com/color/20/000000/html-5.png) ![CSS](https://img.icons8.com/color/20/000000/css3.png) ![JavaScript](https://img.icons8.com/color/20/000000/javascript.png) ![OpenWeather API](https://img.icons8.com/color/20/000000/api.png)
 
 🛒 **[E-Commerce Website](https://jeyasurya23.github.io/e-com/)**  
 > A modern e-commerce website showcasing products with a clean and responsive UI.  
