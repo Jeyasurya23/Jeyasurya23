@@ -33,7 +33,7 @@
 ### Projects  
 💻 **[To-Do App](https://jeyasurya23.github.io/To-do/)**  
 > A simple and intuitive To-Do application where users can add, edit, and manage tasks efficiently.  
-**Tech Stack**: ![HTML](https://img.icons8.com/color/20/000000/html-5.png) ![CSS](https://img.icons8.com/color/20/000000/css3.png) ![JavaScript](https://img.icons8.com/color/20/000000/javascript.png)[React](https://img.icons8.com/color/48/000000/react-native.png)
+**Tech Stack**: ![HTML](https://img.icons8.com/color/20/000000/html-5.png) ![CSS](https://img.icons8.com/color/20/000000/css3.png) ![JavaScript](https://img.icons8.com/color/20/000000/javascript.png)![React](https://img.icons8.com/color/48/000000/react-native.png)
 
 🌦️ **[Weather App](https://jeyasurya23.github.io/weather-app/)**  
 > A dynamic weather application that provides real-time weather updates for any location.  
@@ -41,7 +41,7 @@
 
 🛒 **[E-Commerce Website](https://jeyasurya23.github.io/e-com/)**  
 > A modern e-commerce website showcasing products with a clean and responsive UI.  
-**Tech Stack**: ![HTML](https://img.icons8.com/color/20/000000/html-5.png) ![CSS](https://img.icons8.com/color/20/000000/css3.png) ![JavaScript](https://img.icons8.com/color/20/000000/javascript.png)[React](https://img.icons8.com/color/48/000000/react-native.png)  
+**Tech Stack**: ![HTML](https://img.icons8.com/color/20/000000/html-5.png) ![CSS](https://img.icons8.com/color/20/000000/css3.png) ![JavaScript](https://img.icons8.com/color/20/000000/javascript.png)![React](https://img.icons8.com/color/48/000000/react-native.png)  
 
 ☕ **[Café Website](https://jeyasurya23.github.io/cafe-website/)**  
 > A visually appealing website for a café, complete with menus and animations.  
