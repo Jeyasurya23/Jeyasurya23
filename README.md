@@ -2,7 +2,7 @@
 
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">  
 
-- 🌱 I’m currently learning **Full Stack with Python**  
+- 🌱 I’m currently learning **Full Stack Developer**  
 - 👨‍💻 Passionate about building user-centric web applications.  
 - 🤔 Actively seeking opportunities as a **Frontend Developer**.  
 - 📫 How to reach me:  
