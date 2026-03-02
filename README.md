@@ -15,12 +15,16 @@
 
 ---  
 
-### I Code in:  
-| **Languages**       | **Frameworks/Tools** | **Databases** |  
-|----------------------|----------------------|---------------|  
-| ![Python](https://img.icons8.com/color/48/000000/python.png) | ![React](https://img.icons8.com/color/48/000000/react-native.png) | ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) |  
-| ![HTML](https://img.icons8.com/color/48/000000/html-5.png)   | ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) | |  
-| ![CSS](https://img.icons8.com/color/48/000000/css3.png)       | ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)   | |  
+### I Code in:
+
+| **Languages** | **Frameworks / Tools** | **Databases** |
+|---------------|------------------------|---------------|
+| ![Java](https://img.icons8.com/color/48/java-coffee-cup-logo.png) | ![React](https://img.icons8.com/color/48/react-native.png) | ![MySQL](https://img.icons8.com/color/48/mysql-logo.png) |
+| ![C](https://img.icons8.com/color/48/c-programming.png) | ![Next.js](https://img.icons8.com/color/48/nextjs.png) | |
+| ![HTML](https://img.icons8.com/color/48/html-5.png) | ![Tailwind CSS](https://img.icons8.com/color/48/tailwindcss.png) | |
+| ![CSS](https://img.icons8.com/color/48/css3.png) | ![Bootstrap](https://img.icons8.com/color/48/bootstrap.png) | |
+| | ![Node.js](https://img.icons8.com/color/48/nodejs.png) | |
+| | ![Prisma](https://img.icons8.com/color/48/prisma-orm.png) | |
 
 ---  
 
