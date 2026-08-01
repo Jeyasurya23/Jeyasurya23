@@ -2,21 +2,21 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE7B7,50:4F46E5,100:6EE7B7&height=260&section=header&text=Jeyasurya%20G&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Software%20Engineer%20%7C%20Freelancer&descAlignY=52&descSize=20"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=6EE7B7&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Building+scalable%2C+production-ready+apps+%F0%9F%9A%80;React+%E2%80%A2+Next.js+%E2%80%A2+Flutter+%E2%80%A2+Spring+Boot;Currently+leveling+up+in+Python+%2B+DSA+%F0%9F%90%8D" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=6EE7B7&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Building+scalable%2C+production-ready+apps+%F0%9F%9A%80;React+%E2%80%A2+Next.js+%E2%80%A2+Flutter+%E2%80%A2+Spring+Boot"/>
 
 <br/>
 
-<a href="https://jeyasurya.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://linkedin.com/in/jeyasurya-g"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:jeyasurya0100@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/Jeyasurya23"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://jeyasurya.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://linkedin.com/in/jeyasurya-g"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:jeyasurya0100@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/Jeyasurya23"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-6EE7B7?style=flat-square&logo=statuspage&logoColor=white"/>
 <img src="https://komarev.com/ghpvc/?username=Jeyasurya23&label=Profile%20Views&color=6EE7B7&style=flat-square"/>
-<img src="https://img.shields.io/badge/dynamic/json?color=6EE7B7&label=Status&query=%24.status&url=https%3A%2F%2Fapi.github.com&style=flat-square&logo=statuspage&logoColor=white&cacheSeconds=3600&suffix=Open%20to%20Work" alt="status"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6EE7B7,100:4F46E5&height=3&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6EE7B7,100:4F46E5&height=3&width=100%25"/>
 
 ## 👨‍💻 About Me
 
@@ -31,20 +31,20 @@
 
 <br clear="right"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,100:6EE7B7&height=3&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,100:6EE7B7&height=3&width=100%25"/>
 
 ## 🛠️ Tech Arsenal
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,js,ts,py,dart,c&theme=dark&perline=6"/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind,threejs,bootstrap&theme=dark&perline=6"/>
-<img src="https://skillicons.dev/icons?i=spring,nodejs,postgres,mysql,prisma,firebase&theme=dark&perline=6"/>
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,idea,azure&theme=dark&perline=6"/>
+<img src="https://skillicons.dev/icons?i=java,js,ts,py,dart,c&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind,threejs,bootstrap&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,postgres,mysql,prisma,firebase&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,idea,azure&theme=dark"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6EE7B7,100:4F46E5&height=3&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6EE7B7,100:4F46E5&height=3&width=100%25"/>
 
 ## 🚀 Featured Work
 
@@ -97,45 +97,45 @@ Production full-stack job portal with role-based access control across multiple 
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,100:6EE7B7&height=3&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,100:6EE7B7&height=3&width=100%25"/>
 
-## 📈 Currently Leveling Up
-
-<details open>
-<summary><b>🐍 Python Journey</b></summary>
-<br/>
+## 🔥 Contribution Activity
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=py&theme=dark" width="55"/>
-<br/><br/>
 
-🧠 Data Structures & Algorithms in Python &nbsp;→&nbsp; ⚡ FastAPI &nbsp;→&nbsp; 🌐 Django
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jeyasurya23&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true" width="100%"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/2016rshah/githubchart-api">
+<img src="https://ghchart.rshah.org/39d353/Jeyasurya23" alt="Jeyasurya's contribution heatmap" width="100%"/>
+</a>
 
 </div>
 
-</details>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6EE7B7,100:4F46E5&height=3&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,100:6EE7B7&height=3&width=100%25"/>
 
 ## 📊 GitHub Universe
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Jeyasurya23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeyasurya23&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="165"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Jeyasurya23&theme=tokyonight&hide_border=true&background=0D1117"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeyasurya23&theme=tokyonight&hide_border=true&background=0D1117"/>
+</div>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Jeyasurya23&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8"/>
+<div align="center">
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jeyasurya23&bg_color=0d1117&color=6EE7B7&line=6EE7B7&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://github-stats-extended.vercel.app/api?username=Jeyasurya23&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Jeyasurya23&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="165"/>
 
 <!-- 🐍 Snake contribution animation — enable via https://github.com/Platane/snk then uncomment: -->
 <!-- <img src="https://raw.githubusercontent.com/Jeyasurya23/Jeyasurya23/output/github-contribution-grid-snake.svg"/> -->
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F46E5,100:6EE7B7&height=3&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6EE7B7,100:4F46E5&height=3&width=100%25"/>
 
 <div align="center">
 
